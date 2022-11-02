@@ -1,0 +1,1 @@
+What is the capital city of British Columbia Canada? ;Vancouver; Toronto; Victoria; Kelowna; c 5,What is the capital city of India? ;jalandhar; chandigarh; mohali; Hoshiarpur; d 5,World Biggest Company? ;Apple;Amazon;Google;CEZ; d 100
